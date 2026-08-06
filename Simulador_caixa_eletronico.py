@@ -11,10 +11,10 @@ print("\nNotas entregues:")
 
 for cedula in cedulas:
     quantidade = total // cedula
-    
+
     if quantidade > 0:
         print(f"{quantidade} nota(s) de R$ {cedula}")
         total -= quantidade * cedula
 
 print("=" * 35)
-print("Obrigado por usar o Banco Python!")
+print("Obrigado por usar o Banco Python! Volte sempre!")
