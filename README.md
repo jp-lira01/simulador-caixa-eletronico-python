@@ -1,12 +1,14 @@
-# Simulador de Caixa Eletrônico
+# Simulador de Caixa Eletrônico em Python
 
-Projeto desenvolvido em **Python** para simular um saque bancário, calculando automaticamente a quantidade de notas entregues ao usuário.
+Projeto desenvolvido em Python para simular o funcionamento de um caixa eletrônico, realizando saques e calculando automaticamente a quantidade de notas entregues ao usuário.
 
 ## Funcionalidades
 
-* Saque de qualquer valor inteiro
-* Cálculo automático de notas de **R$50, R$20, R$10, R$5 e R$1**
-* Interface simples e interativa no terminal
+* Solicitação de valor para saque
+* Validação do valor informado
+* Cálculo automático da quantidade de notas necessárias
+* Distribuição de notas de R$50, R$20, R$10, R$5 e R$1
+* Interface interativa pelo terminal
 
 ## Tecnologias utilizadas
 
@@ -14,12 +16,19 @@ Projeto desenvolvido em **Python** para simular um saque bancário, calculando a
 * Git
 * GitHub
 
-## Objetivo
+## Conceitos praticados
 
-Este projeto foi criado para praticar:
+* Estruturas condicionais (`if/else`)
+* Estruturas de repetição (`while`)
+* Operadores matemáticos
+* Manipulação de valores numéricos
+* Organização de código
+* Controle de versão com Git e GitHub
 
-* estruturas condicionais;
-* laços de repetição;
-* operadores matemáticos;
-* organização de código;
-* controle de versão com Git e GitHub.
+## Autor
+
+João Pedro de Lira Franco
+
+---
+
+Projeto desenvolvido como parte dos estudos em Python, com foco em lógica de programação, estruturas de controle e boas práticas de desenvolvimento.
